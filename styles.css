@@ -733,7 +733,7 @@ textarea:focus {
 }
 
 .summary-grid,
-detail-two-column {
+.detail-two-column {
   display: grid;
   grid-template-columns: 0.9fr 1.1fr;
   gap: clamp(28px, 5vw, 58px);
@@ -1057,3 +1057,4 @@ detail-two-column {
     transition: none;
   }
 }
+
