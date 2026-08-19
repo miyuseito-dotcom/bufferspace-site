@@ -1,0 +1,16 @@
+{
+  "name": "BufferSpace",
+  "short_name": "BufferSpace",
+  "lang": "ja",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#174f86",
+  "icons": [
+    {
+      "src": "https://image.jimcdn.com/app/cms/image/transf/dimension=138x10000:format=png/path/sf486928ff814d921/image/iedf2dfcd168434d8/version/1728996848/image.png",
+      "sizes": "138x72",
+      "type": "image/png"
+    }
+  ]
+}
